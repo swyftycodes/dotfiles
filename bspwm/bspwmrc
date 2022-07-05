@@ -1,6 +1,6 @@
 #! /bin/sh
 
-feh --bg-fill /home/jensenlai/Pictures/1.png
+feh --bg-fill /home/jensenlai/Pictures/portal.png
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
